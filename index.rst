@@ -9,4 +9,9 @@
 .. image:: https://im0-tub-ru.yandex.net/i?id=52fe61416a262c14e934312e6602d0cc&n=13
 
 .. code-block:: python
-    # так выглядит комментарий
+
+   def some_function():
+       interesting = False
+       print 'This line is highlighted.'
+       print 'This one is not...'
+       print '...but this one is.'
